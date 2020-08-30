@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="author" content="Nadav Batzir">
+<title>Spiritune</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<link rel="stylesheet" href="./css/style-spiritune.css">
+
+</head>
+
+<body>
+    <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#"><img src="https://assets.website-files.com/5ed185c53574386dadc19c31/5ed185c53574385c66c19ca9_Logo%2520Combined%2520Colour%2520(1)-p-500.png" alt="logo"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item ">
+              <a class="nav-link" href="#how-it-works">How It Works <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#features">Features</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Pricing</a>
+            </li>
+          </ul>
+                  <button type="button" class="btn btn-primary">Download Now</button>
+
+        </div>
+
+      </nav>
+
+<div class="mainAd">
+    <h1 class="h1">Spiritune</h1>
+<h2 class="h2">Healing With Music</h2>
+
+
+</div>
+<div class="container" id="how-it-works">
+<h3>How It Works</h3>
+
+    <div class="row">
+    <div class="col">
+        <img class="img1" src="https://st3.depositphotos.com/3559811/16725/v/450/depositphotos_167253388-stock-illustration-high-detail-phone-front-side.jpg" alt="iphone-display">    
+<p class="mainP"><b>Enter Your Emotion </b> </p>
+<p>    Select how you're currently feeling, ranging from anxious or lethargic, to chill or energetic.</p>
+</p>
+</div>
+    <div class="col">
+        <img class="img1" src="https://st3.depositphotos.com/3559811/16725/v/450/depositphotos_167253388-stock-illustration-high-detail-phone-front-side.jpg" alt="iphone-display">    
+        <p class="mainP"><b>Choose How you Want To Feel </b></p>
+    
+<p>            Choose to transition to a more energetic or relaxed state, and tell us about your current activity.</p>
+</p>
+    </div>
+    <div class="col">
+        <img class="img2" src="https://st.depositphotos.com/1507819/1295/v/450/depositphotos_12953248-stock-illustration-headphones-icon.jpg" alt="headphones">     
+        <p class="mainP"><b>Transition Within Minutes </b></p>
+    
+        <p>           Music therapy and neuroscience principles help 90% of users reach their emotional goals.</p>
+        </p>
+    </div>
+
+  </div>
+  <button type="button" class="btn btn-primary">Download Now</button>
+
+</div>
+
+</div>
+<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+      <div class="carousel-item active ">
+        <img src="https://images.unsplash.com/photo-1572932491814-4833690788ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5><b>Sara From CA</b></h5>
+          <p>Spiritune helped me to change my mood <br> after a truma in my life</p>
+        </div>
+      </div>
+      <div class="carousel-item ">
+        <img src="https://images.unsplash.com/photo-1583913579739-b62ddeaf3f6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Jhon from NY</h5>
+          <p>Wherever I am Whenever I am I can change my mood now</p>
+        </div>
+      </div>
+      <div class="carousel-item ">
+        <img src="https://images.unsplash.com/photo-1555925278-0524c4dbc7d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Lucas from Paris</h5>
+          <p>I finally can reconnect to myself</p>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+</div>
+
+
+
+</body>
+
+</html>
